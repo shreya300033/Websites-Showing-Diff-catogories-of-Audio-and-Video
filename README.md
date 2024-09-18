@@ -6,6 +6,6 @@ This project is a basic HTML website that displays different categories of audio
 ## Project Goal
 This project is a beginner-level HTML project aimed at understanding:
 
-Basic HTML tags like <audio>, <video>, <div>, <a>, etc.
+Basic HTML tags like audio, video, div, a, etc.
 Structuring a multi-page website.
 Embedding media (audio and video) in a web page.
